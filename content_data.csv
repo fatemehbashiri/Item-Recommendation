@@ -1,0 +1,8 @@
+content_id,content_name,genre,country,type,rating,view_count,play_count,duration
+1,Comedy Movie A,Comedy,Iran,Movie,4.5,5000,4000,120
+2,Thriller Movie B,Thriller,USA,Movie,4.2,6000,4500,110
+3,Drama Series C,Drama,UK,Series,4.8,10000,8000,45
+4,Action Movie D,Action,France,Movie,4.3,7000,5000,130
+5,Comedy Series E,Comedy,Iran,Series,4.6,2000,1500,30
+6,Adventure Movie F,Adventure,USA,Movie,4.1,5500,4700,140
+7,Horror Movie G,Horror,Japan,Movie,4.7,3000,2700,90
